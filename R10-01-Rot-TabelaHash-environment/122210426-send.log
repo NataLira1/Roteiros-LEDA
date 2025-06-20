@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-04T09:39:59.809-0300</date>
+  <logger>NATA CAVALCANTE BRITO LIRA</logger>
+  <level>FINE</level>
+  <message>File 122210426-NATA CAVALCANTE BRITO LIRA.zip was received. It was sent by NATA CAVALCANTE BRITO LIRA from IP 150.165.42.214 at 04-10-2023 09*39*59</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-04T22:20:44.507-0300</date>
+  <logger>NATA CAVALCANTE BRITO LIRA</logger>
+  <level>FINE</level>
+  <message>File 122210426-NATA CAVALCANTE BRITO LIRA.zip was received. It was sent by NATA CAVALCANTE BRITO LIRA from IP 192.168.0.11 at 04-10-2023 22*20*44</message>
+</record>
